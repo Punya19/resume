@@ -1,1 +1,1 @@
-![Resume Preview](resume-demo.gif)
+![Resume Preview](resume_video)
