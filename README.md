@@ -22,7 +22,7 @@ Bachelor of Engineering (BE) – Computer Science
 ## 💼 Work Experience
 
 ### **Trainee Software Engineer – Data Engineer**  
-**[Kadel Labs | Bengaluru**](https://drive.google.com/file/d/1ZAkSwM1jNWqJVvr0OdznQr1tsBxIZQwe/view?usp=drive_link)
+[**Kadel Labs | Bengaluru**](https://drive.google.com/file/d/1ZAkSwM1jNWqJVvr0OdznQr1tsBxIZQwe/view?usp=drive_link)
 
 - Assisted in building Python-based data pipelines to ingest, transform, and manage structured datasets  
 - Performed CRUD operations on relational databases supporting both OLTP and OLAP workloads  
