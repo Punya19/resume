@@ -4,9 +4,9 @@ I’m sharing my GitHub profile instead of attaching a resume.
 This README gives a complete snapshot of my background, experience, projects, and technical skills.
 
 📧 Email: punyadk6@gmail.com  
-🔗 LinkedIn: https://in.linkedin.com/in/punya-d-k  
-🔗 GitHub: https://github.com/dashboard  
-🔗 LeetCode: https://leetcode.com/u/Punyadk/
+🔗 [LinkedIn](https://in.linkedin.com/in/punya-d-k) 
+🔗 [GitHub](https://github.com/dashboard) 
+🔗 [LeetCode](https://leetcode.com/u/Punyadk/)
 
 ---
 
